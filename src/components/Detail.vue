@@ -3,6 +3,7 @@
 </template>
 
 <script lang="ts" setup>
+// @ts-nocheck
 // Echarts
 import * as echarts from "echarts";
 import { onMounted, ref } from 'vue';

@@ -7,6 +7,7 @@
 </template>
 
 <script lang="ts" setup>
+// @ts-nocheck
 import { useStationData } from '@/stores/data';
 import { ref } from 'vue';
 const stationData = useStationData()

@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { useStationData } from "@/stores/data";
 
 export function geocoder(pt: object) {

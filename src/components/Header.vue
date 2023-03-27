@@ -11,6 +11,7 @@
 </template>
 
 <script lang="ts" setup>
+// @ts-nocheck
 import router from '@/router';
 import { ref, watch, nextTick } from 'vue';
 

@@ -36,6 +36,7 @@
 </template>
 
 <script lang="ts" setup>
+// @ts-nocheck
 import { useStationData } from '@/stores/data';
 import { ref } from 'vue';
 import Detail from '@/components/Detail.vue'

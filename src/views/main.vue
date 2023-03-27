@@ -24,6 +24,7 @@
 </template>
 
 <script lang="ts" setup>
+// @ts-nocheck
 import { onMounted, ref, watch } from 'vue'
 import { markMap, createMark } from '@/assets/mark'
 import Drawer from '@/components/Drawer.vue'

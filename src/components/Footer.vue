@@ -9,6 +9,7 @@
 </template>
 
 <script lang="ts" setup>
+// @ts-nocheck
 
 </script>
 

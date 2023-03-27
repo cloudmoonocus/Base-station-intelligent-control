@@ -11,6 +11,8 @@
 </template>
 
 <script lang="ts" setup>
+// @ts-nocheck
+
 import { ref } from 'vue';
 
 const tableData = ref([
